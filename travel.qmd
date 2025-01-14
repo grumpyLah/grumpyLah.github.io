@@ -1,0 +1,53 @@
+---
+title: "Travels"
+format: html
+---
+
+# 🧳 My Travel Adventures
+
+Welcome to my travel blog where I share memories from the exciting trips I’ve taken. These are my highlights from 2020 to 2022, covering Taiwan and Phuket.
+
+------------------------------------------------------------------------
+
+## 🌏 Taiwan: 2020
+
+In 2020, I traveled to **Taiwan**, where I had an amazing time exploring the country. From train rides to scenic markets, every moment was special.
+
+### 🚉 Trains to JiuFen
+
+One of the highlights of the trip was the scenic train ride to **JiuFen**, a picturesque town known for its old streets and stunning views.
+
+![Trains on the way to JiuFen](imgs/train.jpg)
+
+### 😷 The Pandemic
+
+Here’s a shot of me wearing a mask during the pandemic — a moment in history that changed the way we traveled.
+
+![Image of me in mask during the pandemic](imgs/mask.jpg)
+
+### 🎮 Childhood Memories
+
+We visited a **nightmarket**, where I stumbled upon an old childhood game that brought back so many memories.
+
+![Found my Childhood Game](imgs/pingpong.mp4)
+
+------------------------------------------------------------------------
+
+## 🌴 Phuket: 2022
+
+After graduation, my friends and I decided to celebrate by going to **Phuket** in 2022 for a memorable graduation trip.
+
+### 🌇 Naka Night Market
+
+One of the most memorable parts of the trip was visiting the **Naka Night Market**, a vibrant and bustling place filled with local foods, crafts, and souvenirs.
+
+![Naka Night Market](imgs/market.jpg)
+
+------------------------------------------------------------------------
+
+### Styling Suggestions
+
+In addition to the textual content, let’s use some CSS to enhance the visual layout of the page:
+
+------------------------------------------------------------------------
+

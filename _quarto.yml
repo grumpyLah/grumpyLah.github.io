@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Week2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Project
+      - href: reflection.qmd
+        text: Reflection
+      - href: travel.qmd
+        text: Travels
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
