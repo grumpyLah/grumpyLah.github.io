@@ -5,32 +5,30 @@ format: html
 
 # How Ai Ying
 
----
-
 ## 👤 About Me
 
 ![Profile Picture](imgs/me.jpg){.profile-pic}
 
 Currently studying at **Singapore Institute of Technology (SIT)**, studying **Applied Computing (Fintech)**. I’m passionate about technology and its impact on the financial industry.
 
----
+
 
 ## 🎓 Education
 
 Currently, I am a second-year student at **Singapore Institute of Technology (SIT)**, studying **Applied Computing (Fintech)**. Previously, Studied in Temasek Polytechnic, Diploma in Financial Informatics which have just loed down early last year and remodelled into a new course.
----
+
 
 ## 🌍 Travel & Personal Interests
 
 One of my greatest passions is traveling. I love exploring new places and learning about different cultures. Here's a picture of me taken in **Taiwan** in 2020, on my way to **JiuFen**. It was such a beautiful and memorable trip!
 
----
+
 
 ## 🧑‍💻 Career Goals
 
 My goal is to become a well-rounded professional in the Fintech industry, combining my love for technology and finance to create innovative solutions for modern challenges.
 
----
+
 
 ## 📸 My Journey
 

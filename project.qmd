@@ -7,7 +7,7 @@ format: html
 
 Welcome to my **Poly Projects** page, where I showcase the projects I completed during my time in **Polytechnic**. Below is one of the significant projects I worked on during my **Year 2**.
 
----
+------------------------------------------------------------------------
 
 ## 🔥 Year 2: OBKD Project
 
@@ -21,9 +21,4 @@ You can also view the original presentation for the project by clicking on the l
 
 [Original Presentation](https://docs.google.com/presentation/d/1QzoeOTqP6hGP2S0WEQ9DgKZWSYUWX9mOd7tWYY6ggD0/edit?usp=sharing)
 
-### 🎥 Video Demo
-
-![Video](imgs/OBKD.mp4)
-
----
-
+------------------------------------------------------------------------
