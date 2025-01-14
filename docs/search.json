@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Profile Picture\n\n\nCurrently studying at Singapore Institute of Technology (SIT), studying Applied Computing (Fintech). I’m passionate about technology and its impact on the financial industry.\n\n\n\nCurrently, I am a second-year student at Singapore Institute of Technology (SIT), studying Applied Computing (Fintech). Previously, Studied in Temasek Polytechnic, Diploma in Financial Informatics which have just loed down early last year and remodelled into a new course.\n\n\n\nOne of my greatest passions is traveling. I love exploring new places and learning about different cultures. Here’s a picture of me taken in Taiwan in 2020, on my way to JiuFen. It was such a beautiful and memorable trip!\n\n\n\nMy goal is to become a well-rounded professional in the Fintech industry, combining my love for technology and finance to create innovative solutions for modern challenges.\n\n\n\nBelow is an image of me taken in 2020 in Taiwan, taking the train to JiuFen, one of the most scenic places I’ve visited!\n Upon reaching JiuFen, we made sure to do the most touristy things such as the writing down our wishes on the lanterns.\n\n\n\nFloating Lantern"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "Profile Picture\n\n\nCurrently studying at Singapore Institute of Technology (SIT), studying Applied Computing (Fintech). I’m passionate about technology and its impact on the financial industry."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Currently, I am a second-year student at Singapore Institute of Technology (SIT), studying Applied Computing (Fintech). Previously, Studied in Temasek Polytechnic, Diploma in Financial Informatics which have just loed down early last year and remodelled into a new course."
+  },
+  {
+    "objectID": "index.html#travel-personal-interests",
+    "href": "index.html#travel-personal-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "One of my greatest passions is traveling. I love exploring new places and learning about different cultures. Here’s a picture of me taken in Taiwan in 2020, on my way to JiuFen. It was such a beautiful and memorable trip!"
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "My goal is to become a well-rounded professional in the Fintech industry, combining my love for technology and finance to create innovative solutions for modern challenges."
+  },
+  {
+    "objectID": "index.html#my-journey",
+    "href": "index.html#my-journey",
+    "title": "About Me",
+    "section": "",
+    "text": "Below is an image of me taken in 2020 in Taiwan, taking the train to JiuFen, one of the most scenic places I’ve visited!\n Upon reaching JiuFen, we made sure to do the most touristy things such as the writing down our wishes on the lanterns.\n\n\n\nFloating Lantern"
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "Travels",
+    "section": "",
+    "text": "Welcome to my travel blog where I share memories from the exciting trips I’ve taken. These are my highlights from 2020 to 2022, covering Taiwan and Phuket.\n\n\n\nIn 2020, I traveled to Taiwan, where I had an amazing time exploring the country. From train rides to scenic markets, every moment was special.\n\n\nOne of the highlights of the trip was the scenic train ride to JiuFen, a picturesque town known for its old streets and stunning views.\n\n\n\nTrains on the way to JiuFen\n\n\n\n\n\nHere’s a shot of me wearing a mask during the pandemic — a moment in history that changed the way we traveled.\n\n\n\nImage of me in mask during the pandemic\n\n\n\n\n\n\n\nAfter graduation, my friends and I decided to celebrate by going to Phuket in 2022 for a memorable graduation trip.\n\n\nOne of the most memorable parts of the trip was visiting the Naka Night Market, a vibrant and bustling place filled with local foods, crafts, and souvenirs.\n\n\n\nNaka Night Market\n\n\n\n\n\n\nIn addition to the textual content, let’s use some CSS to enhance the visual layout of the page:"
+  },
+  {
+    "objectID": "travel.html#taiwan-2020",
+    "href": "travel.html#taiwan-2020",
+    "title": "Travels",
+    "section": "",
+    "text": "In 2020, I traveled to Taiwan, where I had an amazing time exploring the country. From train rides to scenic markets, every moment was special.\n\n\nOne of the highlights of the trip was the scenic train ride to JiuFen, a picturesque town known for its old streets and stunning views.\n\n\n\nTrains on the way to JiuFen\n\n\n\n\n\nHere’s a shot of me wearing a mask during the pandemic — a moment in history that changed the way we traveled.\n\n\n\nImage of me in mask during the pandemic"
+  },
+  {
+    "objectID": "travel.html#phuket-2022",
+    "href": "travel.html#phuket-2022",
+    "title": "Travels",
+    "section": "",
+    "text": "After graduation, my friends and I decided to celebrate by going to Phuket in 2022 for a memorable graduation trip.\n\n\nOne of the most memorable parts of the trip was visiting the Naka Night Market, a vibrant and bustling place filled with local foods, crafts, and souvenirs.\n\n\n\nNaka Night Market\n\n\n\n\n\n\nIn addition to the textual content, let’s use some CSS to enhance the visual layout of the page:"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Poly Projects",
+    "section": "",
+    "text": "Welcome to my Poly Projects page, where I showcase the projects I completed during my time in Polytechnic. Below is one of the significant projects I worked on during my Year 2.\n\n\n\nIn Year 2, I worked on a project that focused on candlestick charts generated from historical data retrieved through API Calls. This project was a great learning experience, combining data analysis and visualization techniques.\n\n\nThe video below demonstrates the functionality of the OBKD Project, where we visualize the candlestick charts based on real-time data.\nYou can also view the original presentation for the project by clicking on the link below:\nOriginal Presentation"
+  },
+  {
+    "objectID": "project.html#year-2-obkd-project",
+    "href": "project.html#year-2-obkd-project",
+    "title": "Poly Projects",
+    "section": "",
+    "text": "In Year 2, I worked on a project that focused on candlestick charts generated from historical data retrieved through API Calls. This project was a great learning experience, combining data analysis and visualization techniques.\n\n\nThe video below demonstrates the functionality of the OBKD Project, where we visualize the candlestick charts based on real-time data.\nYou can also view the original presentation for the project by clicking on the link below:\nOriginal Presentation"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "Hi Prof,\nIn this reflection, I discuss my journey of learning how to use RStudio and Quarto effectively. While mastering the basics, the real breakthrough came when I started using ChatGPT (GenAi) to guide me. ChatGPT has been a great help in explaining concepts in detail and helping me execute tasks with confidence.\n\n\n\n\nThroughout this project, we were tasked with creating a navigation bar, which was not part of the lessons. By using ChatGPT, I was able to break down the process and learn how to customize my project further. This experience has enhanced my understanding and allowed me to beautify my work. I am grateful for the insights ChatGPT provided, which helped me improve both the functionality and visual appeal of my project.\n\n\n\nThis exercise has reinforced the value of using AI tools like ChatGPT to accelerate my learning. Moving forward, I am confident in my ability to solve complex tasks independently."
+  },
+  {
+    "objectID": "reflection.html#introduction",
+    "href": "reflection.html#introduction",
+    "title": "Reflection",
+    "section": "",
+    "text": "Hi Prof,\nIn this reflection, I discuss my journey of learning how to use RStudio and Quarto effectively. While mastering the basics, the real breakthrough came when I started using ChatGPT (GenAi) to guide me. ChatGPT has been a great help in explaining concepts in detail and helping me execute tasks with confidence."
+  },
+  {
+    "objectID": "reflection.html#how-chatgpt-helped-me",
+    "href": "reflection.html#how-chatgpt-helped-me",
+    "title": "Reflection",
+    "section": "",
+    "text": "Throughout this project, we were tasked with creating a navigation bar, which was not part of the lessons. By using ChatGPT, I was able to break down the process and learn how to customize my project further. This experience has enhanced my understanding and allowed me to beautify my work. I am grateful for the insights ChatGPT provided, which helped me improve both the functionality and visual appeal of my project.\n\n\n\nThis exercise has reinforced the value of using AI tools like ChatGPT to accelerate my learning. Moving forward, I am confident in my ability to solve complex tasks independently."
+  }
+]
