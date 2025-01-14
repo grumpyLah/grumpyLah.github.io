@@ -1,0 +1,28 @@
+/* css styles */
+/* Style for Profile Picture - Circle Crop */
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;  /* This makes the image circular */
+  object-fit: cover;   /* Ensures the image covers the circle area */
+  display: block;
+  margin: 0 auto;      /* Centers the image */
+  border: 5px solid #fff; /* Optional: Adds a white border around the image */
+}
+
+/* Add padding to sections */
+section {
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+}
+
+/* Style the headings */
+h1 {
+  color: #4CAF50;
+}
+
+h2 {
+  color: #2196F3;
+}

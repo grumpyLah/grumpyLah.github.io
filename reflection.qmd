@@ -1,0 +1,26 @@
+---
+title: "Reflection"
+format: html
+---
+
+# Reflection on My Learning Journey
+
+## Introduction
+
+Hi Prof,
+
+In this reflection, I discuss my journey of learning how to use **RStudio** and **Quarto** effectively. While mastering the basics, the real breakthrough came when I started using **ChatGPT (GenAi)** to guide me. ChatGPT has been a great help in explaining concepts in detail and helping me execute tasks with confidence.
+
+---
+
+## How ChatGPT Helped Me
+
+Throughout this project, we were tasked with creating a navigation bar, which was not part of the lessons. By using **ChatGPT**, I was able to break down the process and learn how to customize my project further. This experience has enhanced my understanding and allowed me to beautify my work. I am grateful for the insights ChatGPT provided, which helped me improve both the functionality and visual appeal of my project.
+
+---
+
+### Key Takeaways
+
+This exercise has reinforced the value of using AI tools like **ChatGPT** to accelerate my learning. Moving forward, I am confident in my ability to solve complex tasks independently.
+
+---
